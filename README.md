@@ -15,7 +15,7 @@
 ---
 
 <!-- SHORT BIO -->
-<h3 align="center">🌍 Based in Nigeria | Building with passion and purpose</h3>
+<h3 align="center">🌍 Based in Nigeria | Building with Passion and Purpose</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F97316&vCenter=true&center=true&width=400&lines=🌱+Learning+React%2C+Next.js%2C+Python;⚡+Ask+me+about+JavaScript%2C+Git%2C+UI%2FUX;🔭+Working+on+innovative+projects;🎯+Goal%3A+Deliver+impactful+solutions;🍥+Fun+fact%3A+Anime+fan+and+coffee+lover" />
@@ -26,7 +26,9 @@
 <!-- CONNECT -->
 <h2 align="center">📫 Let’s Connect!</h2>
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:prosperalex0110@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" />
+</a>
   <a href="https://www.linkedin.com/in/prosper-alex-442b50348"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Prosper01001?s=09"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
@@ -52,9 +54,9 @@
 <h2 align="center">🧩 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Prosper-Alex01010/project-one"><b>Project One</b></a> – A powerful tool for managing tasks easily and efficiently.<br>
-  <a href="https://github.com/Prosper-Alex01010/project-two"><b>Project Two</b></a> – A modern portfolio built with React and Tailwind CSS.<br>
-  <a href="https://github.com/Prosper-Alex01010/project-three"><b>Project Three</b></a> – A data dashboard powered by Python and Power BI.
+  <a href="https://github.com/Prosper-Alex01010/Banquee"><b>Banquee Project</b></a> – A powerful tool for managing tasks easily and efficiently.<br>
+  <a href="https://github.com/Prosper-Alex01010/Podcast-Template"><b>Podcast-Template Project</b></a> – A modern portfolio built with React and Tailwind CSS.<br>
+  <a href="https://github.com/Prosper-Alex01010/Learning-python"><b>Python Project </b></a> – A data dashboard powered by Python and Power BI.
 </p>
 
 ---
