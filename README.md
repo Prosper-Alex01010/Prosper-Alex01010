@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Prosper+Alex;A+Passionate+Developer+from+Nigeria;I+Build+Cool+Stuff!" />
 </p>
@@ -34,11 +35,11 @@
 
 ## ⚡ GitHub Contribution Snake Animation
 
-![snake gif](https://github.com/Prosper-Alex01010/Prosper-Alex01010/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Prosper-Alex01010/Prosper-Alex01010/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave2.svg" alt="wave" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave2.svg" alt="Wave Divider" width="100%" />
 
 ---
 
